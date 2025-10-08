@@ -4,7 +4,7 @@ Fuzzy logic untuk memodelkan risiko diabetes berdasarkan tiga variabel utama dar
 
 Langkah-langkah yang dilakukan:
 1. Data Preparation:
-   - Menggunakan dataset diabetes (subset 100 baris).
+   - Menggunakan dataset diabetes.
    - Dipilih tiga variabel: Glucose, BMI, dan Age.
 
 2. Fuzzy Membership Functions:
