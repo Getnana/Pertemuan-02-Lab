@@ -1,6 +1,6 @@
 # Pertemuan-02-Lab
 Deskripsi:
-Project ini menggunakan pendekatan fuzzy logic untuk memodelkan risiko diabetes berdasarkan tiga variabel utama dari dataset: Glucose, BMI, dan Age. 
+Fuzzy logic untuk memodelkan risiko diabetes berdasarkan tiga variabel utama dari dataset: Glucose, BMI, dan Age. 
 
 Langkah-langkah yang dilakukan:
 1. Data Preparation:
