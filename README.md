@@ -35,5 +35,5 @@ Langkah-langkah yang dilakukan:
 
 Kesimpulan:
 - Fuzzy logic dapat digunakan untuk membuat model risiko diabetes yang lebih mudah dipahami.
-- Kolom baru `FuzzyRiskScore` berhasil memberikan insight tambahan tentang distribusi risiko.
+- Kolom baru `FuzzyRiskScore` memberikan insight tambahan tentang distribusi risiko.
 - Implementasi SVM dengan fuzzy features memberikan gambaran awal, meskipun performa prediksi masih terbatas.
